@@ -1,1 +1,1 @@
-app.py
+print("Message processor application")
